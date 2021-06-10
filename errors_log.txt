@@ -1,0 +1,4 @@
+Thu Jun 10 06:26:54 2021
+ | Your four points don't form a square!
+Thu Jun 10 06:39:26 2021
+ | Perimeter of your figure - 62.800000 is reached the limit - 40.000000
