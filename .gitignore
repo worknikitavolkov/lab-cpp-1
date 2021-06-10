@@ -1,3 +1,3 @@
-./a.out
-./errors_log.txt
-./.vscode
+a.out
+errors_log.txt
+/.vscode
